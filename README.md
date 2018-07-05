@@ -1,0 +1,2 @@
+# Azure-storage-blob-java
+  This repository contains Java code base to programmatically manage the life cycle of Azure Cloud resources. Most of the code is based on the Azure Samples for Java which you can refer here https://azure.microsoft.com/en-gb/resources/samples/?platform=java&amp;sort=0. I have modified most of these codes to add / remove / split functionalities and added a good amount of documentation. Have tested the code in Java 8.
